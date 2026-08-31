@@ -1,0 +1,3 @@
+# Dependência do script exportar_modelo.py.
+# Requer Python 3.10+ (ver comentário no topo de exportar_modelo.py).
+ultralytics>=8.4

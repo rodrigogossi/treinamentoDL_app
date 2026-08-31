@@ -1,0 +1,13 @@
+# Lixo do macOS
+.DS_Store
+**/.DS_Store
+
+# Ambientes virtuais Python usados para exportar o modelo (ver exportar_modelo/)
+venv_export/
+.venv/
+__pycache__/
+*.pyc
+
+# As pastas do projeto Flutter (treinamento_app/android, ios, etc.) já têm
+# seus próprios .gitignore específicos do Flutter/Android/iOS — não
+# duplicados aqui.
